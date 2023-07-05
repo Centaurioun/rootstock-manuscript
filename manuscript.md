@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-05" />
   <meta name="citation_publication_date" content="2023-07-05" />
   <meta property="article:published_time" content="2023-07-05" />
-  <meta name="dc.modified" content="2023-07-05T21:23:39+00:00" />
-  <meta property="article:modified_time" content="2023-07-05T21:23:39+00:00" />
+  <meta name="dc.modified" content="2023-07-05T21:24:54+00:00" />
+  <meta property="article:modified_time" content="2023-07-05T21:24:54+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://Centaurioun.github.io/rootstock-manuscript/" />
   <meta name="citation_pdf_url" content="https://Centaurioun.github.io/rootstock-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://Centaurioun.github.io/rootstock-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://Centaurioun.github.io/rootstock-manuscript/v/8b81ef1f73cb59ae445136d3914d02103f29c41f/" />
-  <meta name="manubot_html_url_versioned" content="https://Centaurioun.github.io/rootstock-manuscript/v/8b81ef1f73cb59ae445136d3914d02103f29c41f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://Centaurioun.github.io/rootstock-manuscript/v/8b81ef1f73cb59ae445136d3914d02103f29c41f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://Centaurioun.github.io/rootstock-manuscript/v/89749ee44c62801e09a408adad17af4da490132e/" />
+  <meta name="manubot_html_url_versioned" content="https://Centaurioun.github.io/rootstock-manuscript/v/89749ee44c62801e09a408adad17af4da490132e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://Centaurioun.github.io/rootstock-manuscript/v/89749ee44c62801e09a408adad17af4da490132e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://Centaurioun.github.io/rootstock-manuscript/v/8b81ef1f73cb59ae445136d3914d02103f29c41f/))
+([permalink](https://Centaurioun.github.io/rootstock-manuscript/v/89749ee44c62801e09a408adad17af4da490132e/))
 was automatically generated
-from [Centaurioun/rootstock-manuscript@8b81ef1](https://github.com/Centaurioun/rootstock-manuscript/tree/8b81ef1f73cb59ae445136d3914d02103f29c41f)
+from [Centaurioun/rootstock-manuscript@89749ee](https://github.com/Centaurioun/rootstock-manuscript/tree/89749ee44c62801e09a408adad17af4da490132e)
 on July 5, 2023.
 </em></small>
 
