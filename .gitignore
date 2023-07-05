@@ -1,41 +1,43 @@
-# Compiled Lua sources
-luac.out
+# Generated manuscript output files
+output/*
+!output/README.md
 
-# luarocks build files
-*.src.rock
-*.zip
-*.tar.gz
+webpage/v
 
-# Object files
-*.o
-*.os
-*.ko
-*.obj
-*.elf
+# When PDF building fails, a temporary symlink named images in the root
+# directory is not removed.
+/images
 
-# Precompiled Headers
-*.gch
-*.pch
+# Manubot cache directory
+ci/cache
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-*.def
-*.exp
+# Pandoc filters downloaded during continuous integration setup
+build/pandoc/filters/spellcheck.lua
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+# Python
+__pycache__/
+*.pyc
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+# Jupyter Notebook
+.ipynb_checkpoints
 
+# Misc temporary files
+*.bak
+
+# System specific files
+
+## Linux
+*~
+.Trash-*
+
+## macOS
+.DS_Store
+._*
+.Trashes
+
+## Windows
+Thumbs.db
+[Dd]esktop.ini
+
+## Text Editors
+.vscode
