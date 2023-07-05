@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/Centaurioun/rootstock-manuscript/tree/gh-pages) branch hosts the contents of this directory at <https://Centaurioun.github.io/rootstock-manuscript/>.
-The permalink for this webpage version is <https://Centaurioun.github.io/rootstock-manuscript/v/8b81ef1f73cb59ae445136d3914d02103f29c41f/>.
+The permalink for this webpage version is <https://Centaurioun.github.io/rootstock-manuscript/v/89749ee44c62801e09a408adad17af4da490132e/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://Centaurioun.github.io/rootstock-manuscript/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`8b81ef1f73cb59ae445136d3914d02103f29c41f`](https://github.com/Centaurioun/rootstock-manuscript/commit/8b81ef1f73cb59ae445136d3914d02103f29c41f).
+[`89749ee44c62801e09a408adad17af4da490132e`](https://github.com/Centaurioun/rootstock-manuscript/commit/89749ee44c62801e09a408adad17af4da490132e).
